@@ -7,8 +7,8 @@ You can customize the codes according to your own website.
 
 ## 🍉 Free Palestine Collections
 
-- [Free Palestine 1](https://github.com/huseyineskan/palestine-support-web-components/free-palestine-1)
-  ![Free Palestine 1](https://github.com/huseyineskan/palestine-support-web-components/free-palestine-1/free-palestine-1.png)
+- [Free Palestine 1](https://github.com/huseyineskan/palestine-support-web-components/tree/main/Free%20Palestine%201)
+  ![Free Palestine 1](https://github.com/huseyineskan/palestine-support-web-components/blob/main/Free%20Palestine%201/free%20palestine%201.png)
 
 ## Setup
 
