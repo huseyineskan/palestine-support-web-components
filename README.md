@@ -7,7 +7,7 @@ You can customize the codes according to your own website.
 
 ## 🍉 Free Palestine Collections
 
-- [Free Palestine 1](https://github.com/huseyineskan/palestine-support-web-components/tree/main/Free%20Palestine%201)
+- [Free Palestine 1](https://github.com/huseyineskan/palestine-support-web-components/tree/main/Free%20Palestine%201){:target="\_blank"} \
   ![Free Palestine 1](https://github.com/huseyineskan/palestine-support-web-components/blob/main/Free%20Palestine%201/free%20palestine%201.png)
 
 ## Setup
