@@ -12,5 +12,5 @@ You can customize the codes according to your own website.
 
 ## Setup
 
-- Paste the html codes in the relevant folders into the `header` section of your website.
-- Paste the css codes in the relevant folders into the `style.css` section of your website.
+- Copy and paste the html codes in the relevant folders into the `header` section of your website.
+- Copy and paste the css codes in the relevant folders into the `style.css` section of your website.
