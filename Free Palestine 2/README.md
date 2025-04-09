@@ -5,10 +5,10 @@ We condemn all the massacres committed by the murderer ~~Israel~~ against the fr
 In this repo you will find support codes that you can add to your website.
 You can customize the codes according to your own website.
 
-## 🚀 Other Free Palestine Collections
+## 🚀 Free Palestine Collections
 
-- [Free Palestine 2](https://github.com/huseyineskan/palestine-support-web-components/tree/main/Free%20Palestine%202)\
-  ![Free Palestine 2](https://github.com/huseyineskan/palestine-support-web-components/blob/main/Free%20Palestine%202/free%20palestine%201.gif)
+- [Free Palestine 1](https://github.com/huseyineskan/palestine-support-web-components/tree/main/Free%20Palestine%201)\
+  ![Free Palestine 1](https://github.com/huseyineskan/palestine-support-web-components/blob/main/Free%20Palestine%201/free%20palestine%201.png)
 
 ## 👨🏻‍💻 Setup
 
